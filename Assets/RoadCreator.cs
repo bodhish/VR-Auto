@@ -6,9 +6,11 @@ public class RoadCreator : MonoBehaviour {
 
 	public GameObject road;
 
+	
 	void Start() {
-    for (int i = 0; i < 5; i++) {
-        Instantiate(road);
+    InvokeRepeating( "RoadMaker", 4f, 4f );
+	}
+	void RoadMaker(){
+	  Instantiate(road);
     }
-}
 }
