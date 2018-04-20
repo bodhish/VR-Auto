@@ -11,8 +11,7 @@ void Update() {
     }
  void OnCollisionEnter (Collision col)
     {
-        if(col.gameObject.tag == "Destroyable")
-        {
+             {
             Destroy(col.gameObject);
         }
 }

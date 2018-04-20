@@ -1,0 +1,2787 @@
+fileFormatVersion: 2
+guid: 0b0d0576997c4d344a13f1be5c63f9ef
+timeCreated: 1524236028
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: badge_interior_badge_013
+    100004: badge_seatL_badge_013
+    100006: badge_seatR_badge_013
+    100008: badge_steering_wheel_badge_013
+    100010: black_a_pillar_black_013
+    100012: bump_leather_interior_bump_leather_013
+    100014: bump_leather_steering_wheel_bump_leather_013
+    100016: bump_plastic3_interior_bump_plastic3_013
+    100018: bump_plastic_steering_wheel_bump_plastic_013
+    100020: bump_stitching_interior_bump_stitching_013
+    100022: bump_stitching_steering_wheel_bump_stitching_013
+    100024: chrome_seatL_chrome_013
+    100026: chrome_seatR_chrome_013
+    100028: cloth_seatL_cloth_013
+    100030: cloth_seatR_cloth_013
+    100032: digital_gauge_interior_digital_gauge_013
+    100034: glass_interior_glass_013
+    100036: headliner_interior_headliner_013
+    100038: leather_interior_leather_013
+    100040: leather_seatL_leather_013
+    100042: leather_seatR_leather_013
+    100044: Mesh10_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100046: Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100048: Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100050: Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100052: Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100054: Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100056: Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100058: Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100060: Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100062: Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100064: Mesh11_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100066: Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100068: Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100070: Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100072: Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100074: Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100076: Mesh125_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100078: Mesh126_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100080: Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100082: Mesh128_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100084: Mesh129_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100086: Mesh12_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100088: Mesh130_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100090: Mesh131_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100092: Mesh132_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100094: Mesh133_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100096: Mesh134_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100098: Mesh135_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100100: Mesh136_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100102: Mesh137_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100104: Mesh138_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100106: Mesh139_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100108: Mesh13_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100110: Mesh140_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100112: Mesh141_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100114: Mesh142_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100116: Mesh143_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100118: Mesh144_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100120: Mesh145_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100122: Mesh146_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100124: Mesh147_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100126: Mesh148_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100128: Mesh149_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100130: Mesh14_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100132: Mesh150_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100134: Mesh151_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100136: Mesh152_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100138: Mesh153_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100140: Mesh154_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100142: Mesh155_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100144: Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    100146: Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    100148: Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    100150: Mesh159_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    100152: Mesh15_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100154: Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    100156: Mesh161_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100158: Mesh162_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100160: Mesh163_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100162: Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100164: Mesh165_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100166: Mesh166_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100168: Mesh167_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100170: Mesh168_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100172: Mesh169_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100174: Mesh16_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100176: Mesh170_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100178: Mesh171_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100180: Mesh172_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100182: Mesh173_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100184: Mesh174_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100186: Mesh175_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100188: Mesh176_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    100190: Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model
+    100192: Mesh179_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    100194: Mesh17_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100196: Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    100198: Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model
+    100200: Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model
+    100202: Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100204: Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100206: Mesh185_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100208: Mesh186_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100210: Mesh187_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100212: Mesh188_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100214: Mesh189_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100216: Mesh18_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100218: Mesh190_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100220: Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100222: Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100224: Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100226: Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100228: Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100230: Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100232: Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100234: Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100236: Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100238: Mesh19_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100240: Mesh1_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100242: Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100244: Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100246: Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    100248: Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    100250: Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    100252: Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    100254: Mesh206_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    100256: Mesh207_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    100258: Mesh208_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100260: Mesh209_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100262: Mesh20_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100264: Mesh210_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100266: Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100268: Mesh212_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100270: Mesh213_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100272: Mesh214_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100274: Mesh215_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100276: Mesh216_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100278: Mesh217_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100280: Mesh218_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100282: Mesh219_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100284: Mesh21_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100286: Mesh220_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100288: Mesh221_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100290: Mesh222_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100292: Mesh223_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    100294: Mesh224_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100296: Mesh225_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100298: Mesh226_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100300: Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100302: Mesh228_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100304: Mesh229_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100306: Mesh22_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100308: Mesh230_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100310: Mesh231_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100312: Mesh232_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100314: Mesh233_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100316: Mesh234_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100318: Mesh235_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100320: Mesh236_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100322: Mesh237_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100324: Mesh238_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100326: Mesh239_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    100328: Mesh23_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100330: Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model
+    100332: Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    100334: Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    100336: Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    100338: Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    100340: Mesh245_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    100342: Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    100344: Mesh247_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    100346: Mesh248_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    100348: Mesh24_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100350: Mesh25_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100352: Mesh261_032Group1_032Lamborghini_Aventador1_032Model
+    100354: Mesh26_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100356: Mesh27_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100358: Mesh28_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100360: Mesh29_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100362: Mesh2_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100364: Mesh30_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100366: Mesh31_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100368: Mesh32_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100370: Mesh33_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100372: Mesh34_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100374: Mesh35_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100376: Mesh36_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100378: Mesh37_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100380: Mesh38_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100382: Mesh39_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100384: Mesh3_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100386: Mesh40_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100388: Mesh41_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100390: Mesh42_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100392: Mesh43_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100394: Mesh44_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100396: Mesh45_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100398: Mesh46_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100400: Mesh47_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100402: Mesh48_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100404: Mesh49_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100406: Mesh4_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100408: Mesh50_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100410: Mesh51_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100412: Mesh52_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100414: Mesh53_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100416: Mesh54_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100418: Mesh55_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    100420: Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model
+    100422: Mesh57_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100424: Mesh58_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100426: Mesh59_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100428: Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100430: Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100432: Mesh61_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100434: Mesh62_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100436: Mesh63_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100438: Mesh64_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100440: Mesh65_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100442: Mesh66_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100444: Mesh67_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100446: Mesh68_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100448: Mesh69_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100450: Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100452: Mesh70_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100454: Mesh71_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100456: Mesh72_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    100458: Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    100460: Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    100462: Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    100464: Mesh76_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    100466: Mesh77_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    100468: Mesh78_032windscre02_1_032Group1_032Lamborghini_Aventador1_032Model
+    100470: Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    100472: Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100474: Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    100476: Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    100478: Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    100480: Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    100482: Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model
+    100484: Mesh86_032brklights1_032Group1_032Lamborghini_Aventador1_032Model
+    100486: Mesh87_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100488: Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100490: Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100492: Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100494: Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100496: Mesh93_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100498: Mesh94_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100500: Mesh95_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100502: Mesh96_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    100504: Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    100506: metal_interior_metal_013
+    100508: metal_steering_wheel_metal_013
+    100510: mirrorMiddle_interior_mirrorMiddle_013
+    100512: misc_a_pillar_misc_013
+    100514: misc_cagerace_misc_013
+    100516: mottled_interior_mottled_013
+    100518: plastic_interior_plastic_013
+    100520: plastic_seatL_plastic_013
+    100522: plastic_seatR_plastic_013
+    100524: plastic_steering_wheel_plastic_013
+    100526: reflector_interior_reflector_013
+    100528: reflector_steering_wheel_reflector_013
+    100530: rubber_interior_rubber_013
+    100532: rubber_trim_a_pillar_rubber_trim_013
+    100534: solid_interior_solid_013
+    100536: window_glassLM_window_013
+    100538: window_glassRF_window_013
+    100540: window_glassRM_window_013
+    400000: //RootNode
+    400002: badge_interior_badge_013
+    400004: badge_seatL_badge_013
+    400006: badge_seatR_badge_013
+    400008: badge_steering_wheel_badge_013
+    400010: black_a_pillar_black_013
+    400012: bump_leather_interior_bump_leather_013
+    400014: bump_leather_steering_wheel_bump_leather_013
+    400016: bump_plastic3_interior_bump_plastic3_013
+    400018: bump_plastic_steering_wheel_bump_plastic_013
+    400020: bump_stitching_interior_bump_stitching_013
+    400022: bump_stitching_steering_wheel_bump_stitching_013
+    400024: chrome_seatL_chrome_013
+    400026: chrome_seatR_chrome_013
+    400028: cloth_seatL_cloth_013
+    400030: cloth_seatR_cloth_013
+    400032: digital_gauge_interior_digital_gauge_013
+    400034: glass_interior_glass_013
+    400036: headliner_interior_headliner_013
+    400038: leather_interior_leather_013
+    400040: leather_seatL_leather_013
+    400042: leather_seatR_leather_013
+    400044: Mesh10_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400046: Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400048: Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400050: Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400052: Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400054: Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400056: Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400058: Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400060: Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400062: Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400064: Mesh11_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400066: Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400068: Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400070: Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400072: Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400074: Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400076: Mesh125_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400078: Mesh126_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400080: Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400082: Mesh128_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400084: Mesh129_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400086: Mesh12_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400088: Mesh130_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400090: Mesh131_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400092: Mesh132_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400094: Mesh133_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400096: Mesh134_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400098: Mesh135_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400100: Mesh136_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400102: Mesh137_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400104: Mesh138_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400106: Mesh139_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400108: Mesh13_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400110: Mesh140_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400112: Mesh141_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400114: Mesh142_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400116: Mesh143_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400118: Mesh144_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400120: Mesh145_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400122: Mesh146_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400124: Mesh147_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400126: Mesh148_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400128: Mesh149_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400130: Mesh14_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400132: Mesh150_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400134: Mesh151_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400136: Mesh152_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400138: Mesh153_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400140: Mesh154_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400142: Mesh155_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400144: Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    400146: Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    400148: Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    400150: Mesh159_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    400152: Mesh15_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400154: Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    400156: Mesh161_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400158: Mesh162_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400160: Mesh163_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400162: Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400164: Mesh165_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400166: Mesh166_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400168: Mesh167_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400170: Mesh168_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400172: Mesh169_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400174: Mesh16_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400176: Mesh170_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400178: Mesh171_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400180: Mesh172_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400182: Mesh173_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400184: Mesh174_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400186: Mesh175_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400188: Mesh176_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    400190: Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model
+    400192: Mesh179_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    400194: Mesh17_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400196: Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    400198: Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model
+    400200: Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model
+    400202: Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400204: Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400206: Mesh185_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400208: Mesh186_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400210: Mesh187_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400212: Mesh188_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400214: Mesh189_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400216: Mesh18_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400218: Mesh190_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400220: Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400222: Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400224: Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400226: Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400228: Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400230: Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400232: Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400234: Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400236: Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400238: Mesh19_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400240: Mesh1_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400242: Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400244: Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400246: Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    400248: Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    400250: Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    400252: Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    400254: Mesh206_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    400256: Mesh207_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    400258: Mesh208_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400260: Mesh209_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400262: Mesh20_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400264: Mesh210_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400266: Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400268: Mesh212_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400270: Mesh213_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400272: Mesh214_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400274: Mesh215_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400276: Mesh216_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400278: Mesh217_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400280: Mesh218_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400282: Mesh219_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400284: Mesh21_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400286: Mesh220_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400288: Mesh221_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400290: Mesh222_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400292: Mesh223_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    400294: Mesh224_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400296: Mesh225_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400298: Mesh226_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400300: Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400302: Mesh228_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400304: Mesh229_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400306: Mesh22_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400308: Mesh230_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400310: Mesh231_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400312: Mesh232_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400314: Mesh233_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400316: Mesh234_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400318: Mesh235_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400320: Mesh236_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400322: Mesh237_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400324: Mesh238_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400326: Mesh239_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    400328: Mesh23_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400330: Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model
+    400332: Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    400334: Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    400336: Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    400338: Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    400340: Mesh245_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    400342: Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    400344: Mesh247_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    400346: Mesh248_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    400348: Mesh24_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400350: Mesh25_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400352: Mesh261_032Group1_032Lamborghini_Aventador1_032Model
+    400354: Mesh26_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400356: Mesh27_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400358: Mesh28_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400360: Mesh29_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400362: Mesh2_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400364: Mesh30_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400366: Mesh31_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400368: Mesh32_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400370: Mesh33_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400372: Mesh34_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400374: Mesh35_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400376: Mesh36_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400378: Mesh37_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400380: Mesh38_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400382: Mesh39_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400384: Mesh3_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400386: Mesh40_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400388: Mesh41_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400390: Mesh42_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400392: Mesh43_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400394: Mesh44_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400396: Mesh45_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400398: Mesh46_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400400: Mesh47_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400402: Mesh48_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400404: Mesh49_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400406: Mesh4_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400408: Mesh50_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400410: Mesh51_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400412: Mesh52_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400414: Mesh53_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400416: Mesh54_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400418: Mesh55_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    400420: Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model
+    400422: Mesh57_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400424: Mesh58_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400426: Mesh59_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400428: Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400430: Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400432: Mesh61_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400434: Mesh62_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400436: Mesh63_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400438: Mesh64_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400440: Mesh65_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400442: Mesh66_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400444: Mesh67_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400446: Mesh68_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400448: Mesh69_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400450: Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400452: Mesh70_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400454: Mesh71_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400456: Mesh72_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    400458: Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    400460: Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    400462: Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    400464: Mesh76_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    400466: Mesh77_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    400468: Mesh78_032windscre02_1_032Group1_032Lamborghini_Aventador1_032Model
+    400470: Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    400472: Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400474: Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    400476: Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    400478: Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    400480: Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    400482: Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model
+    400484: Mesh86_032brklights1_032Group1_032Lamborghini_Aventador1_032Model
+    400486: Mesh87_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400488: Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400490: Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400492: Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400494: Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400496: Mesh93_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400498: Mesh94_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400500: Mesh95_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400502: Mesh96_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    400504: Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    400506: metal_interior_metal_013
+    400508: metal_steering_wheel_metal_013
+    400510: mirrorMiddle_interior_mirrorMiddle_013
+    400512: misc_a_pillar_misc_013
+    400514: misc_cagerace_misc_013
+    400516: mottled_interior_mottled_013
+    400518: plastic_interior_plastic_013
+    400520: plastic_seatL_plastic_013
+    400522: plastic_seatR_plastic_013
+    400524: plastic_steering_wheel_plastic_013
+    400526: reflector_interior_reflector_013
+    400528: reflector_steering_wheel_reflector_013
+    400530: rubber_interior_rubber_013
+    400532: rubber_trim_a_pillar_rubber_trim_013
+    400534: solid_interior_solid_013
+    400536: window_glassLM_window_013
+    400538: window_glassRF_window_013
+    400540: window_glassRM_window_013
+    2300000: badge_interior_badge_013
+    2300002: badge_seatL_badge_013
+    2300004: badge_seatR_badge_013
+    2300006: badge_steering_wheel_badge_013
+    2300008: black_a_pillar_black_013
+    2300010: bump_leather_interior_bump_leather_013
+    2300012: bump_leather_steering_wheel_bump_leather_013
+    2300014: bump_plastic3_interior_bump_plastic3_013
+    2300016: bump_plastic_steering_wheel_bump_plastic_013
+    2300018: bump_stitching_interior_bump_stitching_013
+    2300020: bump_stitching_steering_wheel_bump_stitching_013
+    2300022: chrome_seatL_chrome_013
+    2300024: chrome_seatR_chrome_013
+    2300026: cloth_seatL_cloth_013
+    2300028: cloth_seatR_cloth_013
+    2300030: digital_gauge_interior_digital_gauge_013
+    2300032: glass_interior_glass_013
+    2300034: headliner_interior_headliner_013
+    2300036: leather_interior_leather_013
+    2300038: leather_seatL_leather_013
+    2300040: leather_seatR_leather_013
+    2300042: Mesh10_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300044: Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300046: Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300048: Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300050: Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300052: Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300054: Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300056: Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300058: Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300060: Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300062: Mesh11_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300064: Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300066: Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300068: Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300070: Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300072: Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300074: Mesh125_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300076: Mesh126_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300078: Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300080: Mesh128_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300082: Mesh129_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300084: Mesh12_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300086: Mesh130_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300088: Mesh131_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300090: Mesh132_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300092: Mesh133_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300094: Mesh134_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300096: Mesh135_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300098: Mesh136_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300100: Mesh137_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300102: Mesh138_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300104: Mesh139_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300106: Mesh13_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300108: Mesh140_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300110: Mesh141_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300112: Mesh142_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300114: Mesh143_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300116: Mesh144_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300118: Mesh145_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300120: Mesh146_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300122: Mesh147_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300124: Mesh148_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300126: Mesh149_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300128: Mesh14_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300130: Mesh150_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300132: Mesh151_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300134: Mesh152_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300136: Mesh153_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300138: Mesh154_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300140: Mesh155_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300142: Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    2300144: Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    2300146: Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    2300148: Mesh159_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    2300150: Mesh15_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300152: Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    2300154: Mesh161_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300156: Mesh162_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300158: Mesh163_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300160: Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300162: Mesh165_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300164: Mesh166_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300166: Mesh167_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300168: Mesh168_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300170: Mesh169_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300172: Mesh16_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300174: Mesh170_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300176: Mesh171_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300178: Mesh172_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300180: Mesh173_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300182: Mesh174_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300184: Mesh175_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300186: Mesh176_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    2300188: Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300190: Mesh179_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    2300192: Mesh17_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300194: Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    2300196: Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model
+    2300198: Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300200: Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300202: Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300204: Mesh185_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300206: Mesh186_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300208: Mesh187_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300210: Mesh188_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300212: Mesh189_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300214: Mesh18_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300216: Mesh190_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300218: Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300220: Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300222: Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300224: Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300226: Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300228: Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300230: Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300232: Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300234: Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300236: Mesh19_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300238: Mesh1_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300240: Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300242: Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300244: Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300246: Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300248: Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300250: Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300252: Mesh206_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300254: Mesh207_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300256: Mesh208_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300258: Mesh209_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300260: Mesh20_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300262: Mesh210_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300264: Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300266: Mesh212_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300268: Mesh213_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300270: Mesh214_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300272: Mesh215_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300274: Mesh216_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300276: Mesh217_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300278: Mesh218_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300280: Mesh219_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300282: Mesh21_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300284: Mesh220_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300286: Mesh221_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300288: Mesh222_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300290: Mesh223_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    2300292: Mesh224_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300294: Mesh225_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300296: Mesh226_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300298: Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300300: Mesh228_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300302: Mesh229_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300304: Mesh22_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300306: Mesh230_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300308: Mesh231_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300310: Mesh232_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300312: Mesh233_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300314: Mesh234_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300316: Mesh235_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300318: Mesh236_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300320: Mesh237_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300322: Mesh238_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300324: Mesh239_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    2300326: Mesh23_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300328: Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300330: Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300332: Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300334: Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300336: Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300338: Mesh245_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300340: Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300342: Mesh247_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300344: Mesh248_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    2300346: Mesh24_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300348: Mesh25_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300350: Mesh261_032Group1_032Lamborghini_Aventador1_032Model
+    2300352: Mesh26_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300354: Mesh27_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300356: Mesh28_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300358: Mesh29_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300360: Mesh2_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300362: Mesh30_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300364: Mesh31_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300366: Mesh32_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300368: Mesh33_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300370: Mesh34_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300372: Mesh35_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300374: Mesh36_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300376: Mesh37_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300378: Mesh38_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300380: Mesh39_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300382: Mesh3_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300384: Mesh40_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300386: Mesh41_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300388: Mesh42_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300390: Mesh43_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300392: Mesh44_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300394: Mesh45_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300396: Mesh46_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300398: Mesh47_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300400: Mesh48_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300402: Mesh49_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300404: Mesh4_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300406: Mesh50_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300408: Mesh51_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300410: Mesh52_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300412: Mesh53_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300414: Mesh54_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300416: Mesh55_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    2300418: Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model
+    2300420: Mesh57_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300422: Mesh58_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300424: Mesh59_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300426: Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300428: Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300430: Mesh61_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300432: Mesh62_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300434: Mesh63_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300436: Mesh64_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300438: Mesh65_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300440: Mesh66_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300442: Mesh67_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300444: Mesh68_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300446: Mesh69_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300448: Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300450: Mesh70_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300452: Mesh71_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300454: Mesh72_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    2300456: Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300458: Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300460: Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300462: Mesh76_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300464: Mesh77_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300466: Mesh78_032windscre02_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300468: Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    2300470: Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300472: Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    2300474: Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    2300476: Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    2300478: Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    2300480: Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model
+    2300482: Mesh86_032brklights1_032Group1_032Lamborghini_Aventador1_032Model
+    2300484: Mesh87_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300486: Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300488: Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300490: Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300492: Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300494: Mesh93_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300496: Mesh94_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300498: Mesh95_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300500: Mesh96_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    2300502: Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    2300504: metal_interior_metal_013
+    2300506: metal_steering_wheel_metal_013
+    2300508: mirrorMiddle_interior_mirrorMiddle_013
+    2300510: misc_a_pillar_misc_013
+    2300512: misc_cagerace_misc_013
+    2300514: mottled_interior_mottled_013
+    2300516: plastic_interior_plastic_013
+    2300518: plastic_seatL_plastic_013
+    2300520: plastic_seatR_plastic_013
+    2300522: plastic_steering_wheel_plastic_013
+    2300524: reflector_interior_reflector_013
+    2300526: reflector_steering_wheel_reflector_013
+    2300528: rubber_interior_rubber_013
+    2300530: rubber_trim_a_pillar_rubber_trim_013
+    2300532: solid_interior_solid_013
+    2300534: window_glassLM_window_013
+    2300536: window_glassRF_window_013
+    2300538: window_glassRM_window_013
+    3300000: badge_interior_badge_013
+    3300002: badge_seatL_badge_013
+    3300004: badge_seatR_badge_013
+    3300006: badge_steering_wheel_badge_013
+    3300008: black_a_pillar_black_013
+    3300010: bump_leather_interior_bump_leather_013
+    3300012: bump_leather_steering_wheel_bump_leather_013
+    3300014: bump_plastic3_interior_bump_plastic3_013
+    3300016: bump_plastic_steering_wheel_bump_plastic_013
+    3300018: bump_stitching_interior_bump_stitching_013
+    3300020: bump_stitching_steering_wheel_bump_stitching_013
+    3300022: chrome_seatL_chrome_013
+    3300024: chrome_seatR_chrome_013
+    3300026: cloth_seatL_cloth_013
+    3300028: cloth_seatR_cloth_013
+    3300030: digital_gauge_interior_digital_gauge_013
+    3300032: glass_interior_glass_013
+    3300034: headliner_interior_headliner_013
+    3300036: leather_interior_leather_013
+    3300038: leather_seatL_leather_013
+    3300040: leather_seatR_leather_013
+    3300042: Mesh10_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300044: Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300046: Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300048: Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300050: Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300052: Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300054: Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300056: Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300058: Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300060: Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300062: Mesh11_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300064: Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300066: Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300068: Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300070: Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300072: Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300074: Mesh125_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300076: Mesh126_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300078: Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300080: Mesh128_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300082: Mesh129_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300084: Mesh12_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300086: Mesh130_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300088: Mesh131_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300090: Mesh132_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300092: Mesh133_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300094: Mesh134_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300096: Mesh135_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300098: Mesh136_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300100: Mesh137_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300102: Mesh138_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300104: Mesh139_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300106: Mesh13_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300108: Mesh140_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300110: Mesh141_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300112: Mesh142_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300114: Mesh143_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300116: Mesh144_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300118: Mesh145_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300120: Mesh146_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300122: Mesh147_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300124: Mesh148_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300126: Mesh149_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300128: Mesh14_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300130: Mesh150_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300132: Mesh151_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300134: Mesh152_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300136: Mesh153_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300138: Mesh154_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300140: Mesh155_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300142: Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    3300144: Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    3300146: Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    3300148: Mesh159_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    3300150: Mesh15_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300152: Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    3300154: Mesh161_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300156: Mesh162_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300158: Mesh163_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300160: Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300162: Mesh165_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300164: Mesh166_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300166: Mesh167_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300168: Mesh168_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300170: Mesh169_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300172: Mesh16_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300174: Mesh170_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300176: Mesh171_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300178: Mesh172_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300180: Mesh173_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300182: Mesh174_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300184: Mesh175_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300186: Mesh176_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    3300188: Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300190: Mesh179_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    3300192: Mesh17_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300194: Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    3300196: Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model
+    3300198: Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300200: Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300202: Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300204: Mesh185_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300206: Mesh186_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300208: Mesh187_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300210: Mesh188_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300212: Mesh189_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300214: Mesh18_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300216: Mesh190_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300218: Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300220: Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300222: Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300224: Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300226: Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300228: Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300230: Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300232: Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300234: Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300236: Mesh19_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300238: Mesh1_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300240: Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300242: Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300244: Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300246: Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300248: Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300250: Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300252: Mesh206_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300254: Mesh207_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300256: Mesh208_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300258: Mesh209_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300260: Mesh20_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300262: Mesh210_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300264: Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300266: Mesh212_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300268: Mesh213_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300270: Mesh214_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300272: Mesh215_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300274: Mesh216_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300276: Mesh217_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300278: Mesh218_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300280: Mesh219_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300282: Mesh21_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300284: Mesh220_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300286: Mesh221_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300288: Mesh222_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300290: Mesh223_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    3300292: Mesh224_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300294: Mesh225_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300296: Mesh226_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300298: Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300300: Mesh228_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300302: Mesh229_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300304: Mesh22_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300306: Mesh230_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300308: Mesh231_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300310: Mesh232_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300312: Mesh233_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300314: Mesh234_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300316: Mesh235_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300318: Mesh236_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300320: Mesh237_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300322: Mesh238_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300324: Mesh239_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    3300326: Mesh23_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300328: Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300330: Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300332: Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300334: Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300336: Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300338: Mesh245_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300340: Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300342: Mesh247_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300344: Mesh248_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    3300346: Mesh24_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300348: Mesh25_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300350: Mesh261_032Group1_032Lamborghini_Aventador1_032Model
+    3300352: Mesh26_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300354: Mesh27_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300356: Mesh28_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300358: Mesh29_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300360: Mesh2_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300362: Mesh30_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300364: Mesh31_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300366: Mesh32_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300368: Mesh33_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300370: Mesh34_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300372: Mesh35_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300374: Mesh36_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300376: Mesh37_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300378: Mesh38_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300380: Mesh39_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300382: Mesh3_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300384: Mesh40_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300386: Mesh41_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300388: Mesh42_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300390: Mesh43_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300392: Mesh44_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300394: Mesh45_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300396: Mesh46_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300398: Mesh47_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300400: Mesh48_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300402: Mesh49_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300404: Mesh4_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300406: Mesh50_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300408: Mesh51_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300410: Mesh52_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300412: Mesh53_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300414: Mesh54_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300416: Mesh55_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    3300418: Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model
+    3300420: Mesh57_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300422: Mesh58_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300424: Mesh59_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300426: Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300428: Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300430: Mesh61_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300432: Mesh62_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300434: Mesh63_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300436: Mesh64_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300438: Mesh65_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300440: Mesh66_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300442: Mesh67_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300444: Mesh68_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300446: Mesh69_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300448: Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300450: Mesh70_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300452: Mesh71_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300454: Mesh72_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    3300456: Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300458: Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300460: Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300462: Mesh76_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300464: Mesh77_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300466: Mesh78_032windscre02_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300468: Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    3300470: Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300472: Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    3300474: Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    3300476: Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    3300478: Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    3300480: Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model
+    3300482: Mesh86_032brklights1_032Group1_032Lamborghini_Aventador1_032Model
+    3300484: Mesh87_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300486: Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300488: Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300490: Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300492: Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300494: Mesh93_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300496: Mesh94_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300498: Mesh95_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300500: Mesh96_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    3300502: Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    3300504: metal_interior_metal_013
+    3300506: metal_steering_wheel_metal_013
+    3300508: mirrorMiddle_interior_mirrorMiddle_013
+    3300510: misc_a_pillar_misc_013
+    3300512: misc_cagerace_misc_013
+    3300514: mottled_interior_mottled_013
+    3300516: plastic_interior_plastic_013
+    3300518: plastic_seatL_plastic_013
+    3300520: plastic_seatR_plastic_013
+    3300522: plastic_steering_wheel_plastic_013
+    3300524: reflector_interior_reflector_013
+    3300526: reflector_steering_wheel_reflector_013
+    3300528: rubber_interior_rubber_013
+    3300530: rubber_trim_a_pillar_rubber_trim_013
+    3300532: solid_interior_solid_013
+    3300534: window_glassLM_window_013
+    3300536: window_glassRF_window_013
+    3300538: window_glassRM_window_013
+    4300000: badge_interior_badge_013
+    4300002: badge_seatL_badge_013
+    4300004: badge_seatR_badge_013
+    4300006: badge_steering_wheel_badge_013
+    4300008: black_a_pillar_black_013
+    4300010: bump_leather_interior_bump_leather_013
+    4300012: bump_leather_steering_wheel_bump_leather_013
+    4300014: bump_plastic3_interior_bump_plastic3_013
+    4300016: bump_plastic_steering_wheel_bump_plastic_013
+    4300018: bump_stitching_interior_bump_stitching_013
+    4300020: bump_stitching_steering_wheel_bump_stitching_013
+    4300022: chrome_seatL_chrome_013
+    4300024: chrome_seatR_chrome_013
+    4300026: cloth_seatL_cloth_013
+    4300028: cloth_seatR_cloth_013
+    4300030: digital_gauge_interior_digital_gauge_013
+    4300032: glass_interior_glass_013
+    4300034: headliner_interior_headliner_013
+    4300036: leather_interior_leather_013
+    4300038: leather_seatL_leather_013
+    4300040: leather_seatR_leather_013
+    4300042: Mesh10_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300044: Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300046: Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300048: Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300050: Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300052: Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300054: Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300056: Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300058: Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300060: Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300062: Mesh11_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300064: Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300066: Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300068: Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300070: Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300072: Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300074: Mesh125_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300076: Mesh126_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300078: Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300080: Mesh128_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300082: Mesh129_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300084: Mesh12_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300086: Mesh130_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300088: Mesh131_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300090: Mesh132_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300092: Mesh133_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300094: Mesh134_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300096: Mesh135_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300098: Mesh136_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300100: Mesh137_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300102: Mesh138_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300104: Mesh139_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300106: Mesh13_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300108: Mesh140_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300110: Mesh141_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300112: Mesh142_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300114: Mesh143_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300116: Mesh144_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300118: Mesh145_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300120: Mesh146_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300122: Mesh147_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300124: Mesh148_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300126: Mesh149_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300128: Mesh14_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300130: Mesh150_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300132: Mesh151_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300134: Mesh152_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300136: Mesh153_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300138: Mesh154_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300140: Mesh155_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300142: Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032Model
+    4300144: Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    4300146: Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032Model
+    4300148: Mesh159_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    4300150: Mesh15_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300152: Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032Model
+    4300154: Mesh161_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300156: Mesh162_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300158: Mesh163_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300160: Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300162: Mesh165_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300164: Mesh166_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300166: Mesh167_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300168: Mesh168_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300170: Mesh169_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300172: Mesh16_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300174: Mesh170_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300176: Mesh171_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300178: Mesh172_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300180: Mesh173_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300182: Mesh174_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300184: Mesh175_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300186: Mesh176_032wheel2_032Group1_032Lamborghini_Aventador1_032Model
+    4300188: Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300190: Mesh179_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    4300192: Mesh17_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300194: Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032Model
+    4300196: Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032Model
+    4300198: Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300200: Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300202: Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300204: Mesh185_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300206: Mesh186_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300208: Mesh187_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300210: Mesh188_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300212: Mesh189_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300214: Mesh18_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300216: Mesh190_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300218: Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300220: Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300222: Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300224: Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300226: Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300228: Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300230: Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300232: Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300234: Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300236: Mesh19_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300238: Mesh1_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300240: Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300242: Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300244: Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300246: Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300248: Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300250: Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300252: Mesh206_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300254: Mesh207_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300256: Mesh208_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300258: Mesh209_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300260: Mesh20_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300262: Mesh210_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300264: Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300266: Mesh212_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300268: Mesh213_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300270: Mesh214_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300272: Mesh215_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300274: Mesh216_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300276: Mesh217_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300278: Mesh218_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300280: Mesh219_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300282: Mesh21_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300284: Mesh220_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300286: Mesh221_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300288: Mesh222_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300290: Mesh223_032wheel3_032Group1_032Lamborghini_Aventador1_032Model
+    4300292: Mesh224_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300294: Mesh225_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300296: Mesh226_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300298: Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300300: Mesh228_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300302: Mesh229_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300304: Mesh22_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300306: Mesh230_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300308: Mesh231_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300310: Mesh232_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300312: Mesh233_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300314: Mesh234_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300316: Mesh235_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300318: Mesh236_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300320: Mesh237_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300322: Mesh238_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300324: Mesh239_032wheel4_032Group1_032Lamborghini_Aventador1_032Model
+    4300326: Mesh23_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300328: Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300330: Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300332: Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300334: Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300336: Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300338: Mesh245_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300340: Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300342: Mesh247_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300344: Mesh248_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032Model
+    4300346: Mesh24_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300348: Mesh25_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300350: Mesh261_032Group1_032Lamborghini_Aventador1_032Model
+    4300352: Mesh26_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300354: Mesh27_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300356: Mesh28_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300358: Mesh29_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300360: Mesh2_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300362: Mesh30_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300364: Mesh31_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300366: Mesh32_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300368: Mesh33_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300370: Mesh34_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300372: Mesh35_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300374: Mesh36_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300376: Mesh37_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300378: Mesh38_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300380: Mesh39_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300382: Mesh3_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300384: Mesh40_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300386: Mesh41_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300388: Mesh42_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300390: Mesh43_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300392: Mesh44_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300394: Mesh45_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300396: Mesh46_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300398: Mesh47_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300400: Mesh48_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300402: Mesh49_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300404: Mesh4_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300406: Mesh50_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300408: Mesh51_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300410: Mesh52_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300412: Mesh53_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300414: Mesh54_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300416: Mesh55_032Group3_032Group1_032Lamborghini_Aventador1_032Model
+    4300418: Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032Model
+    4300420: Mesh57_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300422: Mesh58_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300424: Mesh59_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300426: Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300428: Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300430: Mesh61_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300432: Mesh62_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300434: Mesh63_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300436: Mesh64_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300438: Mesh65_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300440: Mesh66_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300442: Mesh67_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300444: Mesh68_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300446: Mesh69_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300448: Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300450: Mesh70_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300452: Mesh71_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300454: Mesh72_032wheel1_032Group1_032Lamborghini_Aventador1_032Model
+    4300456: Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300458: Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300460: Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300462: Mesh76_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300464: Mesh77_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300466: Mesh78_032windscre02_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300468: Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    4300470: Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300472: Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    4300474: Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    4300476: Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    4300478: Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032Model
+    4300480: Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032Model
+    4300482: Mesh86_032brklights1_032Group1_032Lamborghini_Aventador1_032Model
+    4300484: Mesh87_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300486: Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300488: Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300490: Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300492: Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300494: Mesh93_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300496: Mesh94_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300498: Mesh95_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300500: Mesh96_032glass1_032Group1_032Lamborghini_Aventador1_032Model
+    4300502: Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032Model
+    4300504: metal_interior_metal_013
+    4300506: metal_steering_wheel_metal_013
+    4300508: mirrorMiddle_interior_mirrorMiddle_013
+    4300510: misc_a_pillar_misc_013
+    4300512: misc_cagerace_misc_013
+    4300514: mottled_interior_mottled_013
+    4300516: plastic_interior_plastic_013
+    4300518: plastic_seatL_plastic_013
+    4300520: plastic_seatR_plastic_013
+    4300522: plastic_steering_wheel_plastic_013
+    4300524: reflector_interior_reflector_013
+    4300526: reflector_steering_wheel_reflector_013
+    4300528: rubber_interior_rubber_013
+    4300530: rubber_trim_a_pillar_rubber_trim_013
+    4300532: solid_interior_solid_013
+    4300534: window_glassLM_window_013
+    4300536: window_glassRF_window_013
+    4300538: window_glassRM_window_013
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh10_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: ad304061a5a7e1943bf50ec29e7a468c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh111_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f8375aa25b2ed5041965e3ae8c5848be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh112_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 5e87f2d12db19fb45ab6050150ade3c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh113_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 31147128923f2a241b675a734b0b204d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh114_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f5fc187a532964a4fb5723d78e038c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh115_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d6d8e40c10d087f4f9ce256df6fb362f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh116_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: c2e5586400a2ba847b390a7384b1e8c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh117_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 90278b0a8ac9e84419e87a6b5d71e7c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh118_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: e0e103f8a78c8a340bf69d60f49b4f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh119_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 691cb68496283b94e94f485c1baf94ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh11_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d901939abb84a1c42a1ff51dab6e3d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh120_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 826794f025d46d84082c4097109b3d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh121_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: e6b189f1d31f6d747b636f3757c45f39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh122_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 1e9d14266e8d7094d959527907b71136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh123_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d1c5d91706017084ea9998ef6fbf1220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh124_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 63e20d614317f4c41aa9e638cbb2735b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh125_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: fa656525ed08a7745b79cdb56e801224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh126_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 4e4e09da3b5381a46a983034aaf6bc2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh127_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d79ff84d4e429b041aace110beee2e2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh128_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 8700a796597f4cd47bf81f02c56d728b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh129_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: ebda2a77e514fb84382dd5d6c99181fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh12_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 5016bf9dc6c945344af04b9b81e942c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh130_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 4b99763b5b405f34b8132e85705bf793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh131_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 5343bd085467a674089f1b7b4c64cd84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh132_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f0608f42c6de8924c8777ddc57a93aea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh133_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: e00fda5971460ea4c9dacae8c3a7a5ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh134_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: cf7f2eb9a9b35d64daeb2aa06f55040e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh135_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f62aabc1f6709914cb7d9c6fb306c520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh136_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 37b04594a0c370e4e9ef85fa0d79891f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh137_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 3b80046441ed33d4fb535917b235c703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh138_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 44762017be8b3484e8bc7471d80ee2e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh139_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 70c7d130b76860f48bb950d0035d8845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh13_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 35c60e8ef925be140bdab76a1d7aa06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh140_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 406b76ca9ebbf6a47a6c282ce95f8362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh141_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 4a4034457a34d974b89a8266a51c7dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh142_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 6d5066626bb5aac4bacc56b65cdfbaf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh143_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: cacb1f555dd6be240b204f7b54436a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh144_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: cc3119e5112469940a8a07d88aba74ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh145_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d29c20801f633864a923485e97a6a6c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh146_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 8eb31d5ac4292ae41b9c25e7bad3c2c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh147_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2655fb526b864924b9e1277de0fe6e1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh148_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: db3a842f3cb16724f8c768977f18c340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh149_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 75d297d9c701a31419b8f087122013ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh14_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 381268a36a9add94aa2215cf8594f101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh150_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 91d172ee4eac5bd4ca42908a5e7a6c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh151_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: ecc1926577112cc408b53bce683e20e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh152_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 05cbbc1a74acd5d4badadde0dff0c8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh153_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 71a83627a2c7b114aacf2f632bfe82b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh154_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 7d51a2a2025946c489f00425c25f5c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh155_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9545c4df40a84f3408fd982831229ab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh156_032mesh1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 575c275da5566404b933034b7bd8397f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh157_032side1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 21df260e315ac4441b58f938a3b4ca8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh158_032side1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 3e8cc072282eb7543b66d9817a7ea1df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh159_032surface1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 6f469ec37dbac5e4791eba8e6b0d84d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh15_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 85f2177b60b556548ae8586ef7bc3d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh160_032surface1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2f4b0336cfc80ab4c9cb3806e699c186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh161_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2e5bf4a7171e3344bba09d9b5163225a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh162_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2ef11a30923a83e4a85fd219d923a9f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh163_032Group7_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2cf5f53ac26d6fd4d831b7c3da6ea19b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh164_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 15ac2c897feaddf40a56534213ca8520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh165_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2e5e133e8a2f4944fbf36dd5aae8d620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh166_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9064e38f636854440ace502baa3996a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh167_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: bcc070fd751ff6d418e03253d050b48b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh168_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: fabbcafa8f5b77b42a705cd01221475d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh169_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 13d3581f457a364458b6b07ebf094fc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh16_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 95fe87543d8842542b763c5baad7e47a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh170_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 1b1c4468bd2de3b4bafe32fdd4aef985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh171_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 539f940a5dd68524b80b9f76b17c0a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh172_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 83a5c4836b8d3cb45bda17aa4aa91483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh173_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 12fc7e95a05f5e9468a93ee762370aad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh174_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: c95e0b1340c29d74bae57dd6928ab9e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh175_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 1549e92100a71604fac02791cee37809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh176_032wheel2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 70171c5ce36d8ea4bbe42662df16de2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh177_032Group8_032bump_fro02_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 4bce038f3d09a6845a5290c7a18b40b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh179_032surface2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: dc10c2303f6b3fe43b9f0cbd233262dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh17_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 5248d23f72e632e4a88480eefbbb455e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh180_032surface2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9547ddca144cfea449eabb36a795530f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh181_032bonnet_ok2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 158fc532cffdfc04b8068eb8433097ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh182_032Group9_032Gruppe_11_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 42229a7a66e23e84fae0645750c38c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh183_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2a79335087aef0b49a09534da88e79b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh184_032Group10_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 22318c8aa111f304b96246bdeb176b26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh185_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 02e913d74bb6d2f43af2e87827e32228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh186_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b5dfd35325e682045aacfb3e85ed67ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh187_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f88c4087dcae70d4fa8a565eb2a11fef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh188_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9f2f43343c941ce4d8e324f49338425e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh189_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: db12c1d90a47b8442ab3d51e3981e8a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh18_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 786cdce67d38275438962cfc43d24097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh190_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 0311c617e2928394eb0bb0d4f91819f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh191_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: a780b6fa9510d7641b247dcfcc4a7e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh192_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 86255f9078fe4b7409c998b683407211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh193_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 98fef6676fa1f2d4c8ea9e083d4d9a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh194_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d4fa9ce5492bf9e49b327e83895cfc1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh195_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2bac62ce293bf58458015e711843fdeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh196_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 0536a81a971a96a48ba8725a8f67031b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh197_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d357c0f9f45d34e4eb0da8c229b0932b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh198_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 13f18d5459f288e42b60e6b46963bf13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh199_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 29c2e53dcd27cca498c455df4e48b8f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh19_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 61fc6b98d51969042815a64700ee0f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh1_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: c99aec5e321d06441a9458fa43fb98d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh200_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9f8ccffb512b0df47af867e01deef8ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh201_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b34342ac6f9a16b4e8a89b6bb437c586, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh202_032Group11_032Gruppe_15_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 998cf143ed15e254d8a04647d5c4b9ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh203_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 0e5950644410ec94f9a15300e0954d68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh204_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: c175f7953732cee4a990e6e1930ea5b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh205_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 67dfe9e46db31034eb6daab25e69f78c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh206_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b34a25e0ef9a83141bbf3475872cbcf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh207_032Gruppe_12_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f410311a459413440946e6931daa39d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh208_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 198492aae33f947469f3608cc836d123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh209_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 007c20ac56b314a42888bd1c5f7d400e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh20_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 6d07e49672d2b764f810ce92c49d624a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh210_032Group12_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 4fe8fed7e6f13ae4c83f277a1fb13681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh211_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: e63b8c4854f19b94b9074f3cef31cbfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh212_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 4dbc485216823954db0914a72ae062c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh213_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: e4dfeaee96bafa8488e7cb504002e0f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh214_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 62e591b8e3646f845aa55ad5da80bdf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh215_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9ab717bf28ba0954983fce115fee99b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh216_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 400ea47445f3b1441a48ed2ddb20a2a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh217_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2c82004e5fbc7ff478e53cd4e749d808, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh218_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 35b2327ee7b77b34ca5c69fdfc0c96cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh219_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 8d23cd676dc1b7142b45d4fc9e702f67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh21_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 49deffb640ad7884b8936ad21f202b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh220_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 752ae3e8c25004f4d856b9b6c0a025a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh221_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: a06214d9196312e4988279ddef6311fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh222_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 6620a37728a72e34a84cb5bbd353f7e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh223_032wheel3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d1d3db079702c0e44ac83a3263bcdedc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh224_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 6f47e03ad9ea4c643964e0bfac77676a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh225_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f23312175eeff2641a2de15288805d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh226_032Group13_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 615e7c1ce52336e489c4d1cc5d2a440f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh227_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d8cb39f87f3150645a006b4d89fab570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh228_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: fef956078ad6eff4a882de59d648b3e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh229_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 384b237d57a37a546a1d596c396f385d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh22_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 032d8d58c16d0d64e84c0ec6719574ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh230_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d63ce6a944aba204da930f1785870a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh231_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 587281cb1e3023540a90893cbbe1958d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh232_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: cd590ca34db70714498883241195de30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh233_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 8269f2254479a394f83c85512858d8dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh234_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f5888eb7a1480924e975faf9ede1164c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh235_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 74ef2457716317a42922b3df59dcbd0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh236_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 65adb56584a96bd449fd9481dd846112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh237_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 7d4c57fc6083dfd4fab295e22b7f4cb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh238_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 91fe4454f0335f949a509d3794db5fa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh239_032wheel4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b701c80f7e565e748a3413c7698ef0f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh23_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 3e45c2c4f6c7cd549a18d09ad51981ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh240_032Group14_032Gruppe_11_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9b5ed12a28baca24893dd2164564b984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh241_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9b9aeb4ad54160149bef65849ed06db4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh242_032Group15_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 5098ec3f111480945ae615a2a156d6b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh243_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: afd4d7d456e73e145b1532a95f4cbbbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh244_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: c5a79ee2b4e860c4c822907fc6d5d0e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh245_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: a4a610893744808469a68896d2204b4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh246_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 0451bd850b5383a4dacbacaaa1e1efe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh247_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: e45cc8dc50d9f9b4c98734e1a5f1a275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh248_032Group16_032Gruppe_15_2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 91fbf67fc8a80024ebd814c34c73e90c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh24_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b6e15384adb73da438aeb4282509a8f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh25_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 01291fbd464bd47479070d72aa43bddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh261_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: fa01aef4a7e2da146829537c7627860f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh26_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 4dbdfb60e0d08b24cb7fc8828fdf623e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh27_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: ec74d266c15d007448ba2947f9b72288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh28_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 7d9f89504f9cd2449a34fc6be2d767c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh29_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 1c26950d9814ab045b01497086feb548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh2_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 4751b37804069f445a53de0db1ef5d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh30_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: a8f80a375b48788468b4ac8e5250b8b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh31_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 21bc4bb3e9df253428aa8a3e16ead1b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh32_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 77e4d2a6940034042bbfaccf00326be2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh33_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 7dfdbada3e9c7904b9cdd088de74023a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh34_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 1d2f94bef9e95f24fb12521b777a84b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh35_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 17ef3d5db8860d149bf45f9c85c785e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh36_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 3c60bbc7f56eec44aae129616a679886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh37_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 0627a0c23fa15f84ab28687b36059871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh38_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 8edb70198cca14f42a15aa20aafa00d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh39_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 5d821e13ed72bde44bb5e9cf15326680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh3_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 8ae25878b187f3e458d7c60337583aa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh40_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 87ec277d0a172d84dae9a3195e83a34c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh41_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: ac70421fcbecf624b96220cbd0b7da5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh42_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2a3a5ca56adcb6e41b2a0431f568437e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh43_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: ed9a616a0948d9542989067f96e731ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh44_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 5eed2d1ea7b523d47a881ef63d2f2d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh45_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 37193dc089223524381d6ed5dde93e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh46_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: a428f7384a9a5fe439fe1d7b43b59c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh47_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 785da121ec4f7e2498e2624616171144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh48_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: ed6023595e52a2d4fa07af8d1f80f3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh49_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: da20a541fed914d45b695c01a993de0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh4_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 37a9cf8958de2644eac7d014439daad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh50_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 1a9db7388fa53614c8ccd653dfbb57a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh51_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 08675bbb28ed089498306edc8ebbbd21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh52_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b2f69deb4995f624c8c0eca601ce92ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh53_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: d504d842a5c690c43bf59153da62d710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh54_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b792b92d0c5faaf46bc87789169b108f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh55_032Group3_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b82da7f814e9ad3478944b48f347d3f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh56_032Group4_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 59fc75239d08dc94dbb41da3dc1d0523, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh57_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 7a0dee6b67ef0204283853c02b578783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh58_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 52c67ba891f12a94195e555d084095a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh59_032Group5_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 3eed5ccbce5c62844931b87894d9a3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh5_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f45d6a06e1f7b3649a01085863a232ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh60_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: f1a8a16dba4f57b4cb826df2da3cdefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh61_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: afb35fe44a8e9c14d92baced9fb14af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh62_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 88770d521fedb28479d95ef83e3b9d1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh63_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 63fbe6824343b0641bc96cd0104ed474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh64_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 7bf1a778cc3133049902d9c90d6a4ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh65_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: fe8103eda90895e4d9a39dfe2d8e56d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh66_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b0ade5107d3d9e746b2157b19f07a603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh67_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 4a13d8b0690ff4747835f97fafc95944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh68_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 1767d8a0beac3ea429833cebc56b07c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh69_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: b0fff796b1bd7354882a7c15757eee0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh6_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9eaae65896bb3484fa28234f59a9e44e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh70_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 75f3231521a285c469097a530c78a5f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh71_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 8e2aabb591de85144896029f85d203bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh72_032wheel1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 1c777b127a2e45a44a3cbb65ca5eb99b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh73_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 690bc6a2a49b1724bbe05a16efa710f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh74_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 00dc3503917714749a8069aed5d2e7e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh75_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2eacc8689f255344dafc62493b5a7b81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh76_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: e7d3b41489e830d4fba047ab1e6f8238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh77_032Gruppe_12_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: eba8968fed0f1244d8a9e66e2ca86331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh78_032windscre02_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 82f752fc3dc3fa540a7e256f746e0b0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh79_032bonnet_ok1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 1f200964a60e46d46823892b9cec8839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh7_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 930ac295ea2a4b1499c84fc92229970a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh80_032boot_ok1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 9f4b648222c69ec4da43a45b2dcdf22e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh81_032boot_ok1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 5081118353e9ecc49a0d0248f32f9b3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh82_032boot_ok1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 338fef1f610f7434aa06af98a5762280, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh83_032boot_ok1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2471f17aaf0486b4dbea2494d2cb4061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh84_032Group6_032bump_fro02_1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 2ae4f2f47389f0b41bf2272351b56936, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh86_032brklights1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: e7ae9693339b0fe47915fef9f169d17c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh87_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 5ad6cc279d52f1a47a2b9ebbb8211a70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh88_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 6abfdbfc854cfac4d97df5e14e178d18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh89_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 6771e911f6d289c419569e9486cb6ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh8_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 8248d14e50f396349bfb116c1c533d36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh92_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 8e09831148fe9ef429429065b15b5fd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh93_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 77d921a6ae4736c43b0414215658fde5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh94_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 0b6d38b0fcc77f84a9c16648fcda335b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh95_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: c039d23685974b64da65e13afd53ec2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh96_032glass1_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 91f268e3c1bd9114088f6bdadad20a44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh9_032Group2_032Group1_032Lamborghini_Aventador1_032ModelMat
+    second: {fileID: 2100000, guid: 6cacec1f53c05fb409d9304471e008be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: badge_interior_badge_013Mat
+    second: {fileID: 2100000, guid: 1d995d3ece33f9941ae69f7d4f65498a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: badge_seatL_badge_013Mat
+    second: {fileID: 2100000, guid: 0139186d1639f4240b95e25a0609b3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: badge_seatR_badge_013Mat
+    second: {fileID: 2100000, guid: 76176d5eaae559c4b97f417fec3c985b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: badge_steering_wheel_badge_013Mat
+    second: {fileID: 2100000, guid: 6ce5f2afa34ad384da5de554a35e5ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_a_pillar_black_013Mat
+    second: {fileID: 2100000, guid: 64c381a3646390e43b3e7aa38b262cb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_leather_interior_bump_leather_013Mat
+    second: {fileID: 2100000, guid: cad573dbff4848141b3748f450c74392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_leather_steering_wheel_bump_leather_013Mat
+    second: {fileID: 2100000, guid: 1931c56bed4d9bb428925e709216ab6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_plastic3_interior_bump_plastic3_013Mat
+    second: {fileID: 2100000, guid: 31a32fa904f31954882eaa8a404d77ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_plastic_steering_wheel_bump_plastic_013Mat
+    second: {fileID: 2100000, guid: b041759940965594fbbac30e6b8ff1f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_stitching_interior_bump_stitching_013Mat
+    second: {fileID: 2100000, guid: 47c129a3fb3cd27448c918ab997919a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_stitching_steering_wheel_bump_stitching_013Mat
+    second: {fileID: 2100000, guid: 7c26422b79fd1d246924323330d0e969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_seatL_chrome_013Mat
+    second: {fileID: 2100000, guid: 6cbe7ca0dec99cf49b536ca5fdb9dbf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_seatR_chrome_013Mat
+    second: {fileID: 2100000, guid: 34daf4f5f4d64ee4bbedec089e21e7f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth_seatL_cloth_013Mat
+    second: {fileID: 2100000, guid: 03551156c90b30b4783bb45dba2ec0de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth_seatR_cloth_013Mat
+    second: {fileID: 2100000, guid: db210c8da43c59d49b695b3d82f9ccc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: digital_gauge_interior_digital_gauge_013Mat
+    second: {fileID: 2100000, guid: e794b790cc316cb42a526159d1fb0518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_interior_glass_013Mat
+    second: {fileID: 2100000, guid: 60ee857197d2ab04da4274034a432d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headliner_interior_headliner_013Mat
+    second: {fileID: 2100000, guid: 6d2dcac35a9028640867176fee3aba75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather_interior_leather_013Mat
+    second: {fileID: 2100000, guid: f40f54b14d50f6340b6b7e4e96c6b5cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather_seatL_leather_013Mat
+    second: {fileID: 2100000, guid: b3fa892bb2f0ca845a74f5feba2f272a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather_seatR_leather_013Mat
+    second: {fileID: 2100000, guid: e5c79e1eadf2b95489ffbc5b15d65f61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_interior_metal_013Mat
+    second: {fileID: 2100000, guid: 55f1f6ca65efcdb4c95f102cda71efdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_steering_wheel_metal_013Mat
+    second: {fileID: 2100000, guid: 26a0fc6b58ce6cf4cad18aeb0843d2ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirrorMiddle_interior_mirrorMiddle_013Mat
+    second: {fileID: 2100000, guid: 3a95c3246fc7312499ff57c7472ea10f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_a_pillar_misc_013Mat
+    second: {fileID: 2100000, guid: 1fc8969730f87664fa9c2b3ae2bb059b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc_cagerace_misc_013Mat
+    second: {fileID: 2100000, guid: 14110d9ceb618734b8efc9c085e36947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mottled_interior_mottled_013Mat
+    second: {fileID: 2100000, guid: ae4b27d913fe27f47922905b5dd89e0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_interior_plastic_013Mat
+    second: {fileID: 2100000, guid: f47dff1617ecbc44e8b114986b611d91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_seatL_plastic_013Mat
+    second: {fileID: 2100000, guid: d167b12723ce5dc4ea4b45d74f072db6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_seatR_plastic_013Mat
+    second: {fileID: 2100000, guid: 4c5a8980888cf894681ed444e97af1df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_steering_wheel_plastic_013Mat
+    second: {fileID: 2100000, guid: 5d6629a6da4db574ba55999b5f6c1f01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reflector_interior_reflector_013Mat
+    second: {fileID: 2100000, guid: a18a5d9fb3bb5ea49bf48d74062fe05c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reflector_steering_wheel_reflector_013Mat
+    second: {fileID: 2100000, guid: d8bc8542b459eab4eb47421cb4c6bd99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber_interior_rubber_013Mat
+    second: {fileID: 2100000, guid: 5c678427347cdb8408844e62461a6d0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber_trim_a_pillar_rubber_trim_013Mat
+    second: {fileID: 2100000, guid: 487b52af82b4ade42909a46de9c8dbab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: solid_interior_solid_013Mat
+    second: {fileID: 2100000, guid: f8c198bae4845e54d874019822a8620c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glassLM_window_013Mat
+    second: {fileID: 2100000, guid: 2bb5e49f94c94f0469c875608037e859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glassRF_window_013Mat
+    second: {fileID: 2100000, guid: fb0b0444c7fc3f245b61022042e93c34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glassRM_window_013Mat
+    second: {fileID: 2100000, guid: a9c1fa29c17249c4bb3a50b928c1ef5c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
