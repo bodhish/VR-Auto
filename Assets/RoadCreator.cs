@@ -4,13 +4,15 @@ using UnityEngine;
 
 public class RoadCreator : MonoBehaviour {
 
-	public GameObject road;
+	public GameObject roadA;
+	public GameObject roadB;
 
 	
 	void Start() {
     InvokeRepeating( "RoadMaker", 4f, 4f );
 	}
 	void RoadMaker(){
-	  Instantiate(road);
+	  Instantiate(roadA);
+	  Instantiate(roadB);
     }
 }
