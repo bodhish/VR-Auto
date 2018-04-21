@@ -10,6 +10,7 @@ public class changePosition : MonoBehaviour
     {
     target = GameObject.Find("Auto");
     }
+	
     
 	public void GoToPositionOne()
     {
