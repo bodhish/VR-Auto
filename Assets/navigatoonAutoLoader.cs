@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class navigatoonAutoLoader : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+	public GameObject nav;
+
 	
-	// Update is called once per frame
-	void Update () {
-		
+	void Start() {
+    InvokeRepeating( "NavMaker", 10f, 10f );
 	}
+	void NavMaker(){
+	  Instantiate(nav);
+    }
+
 }
